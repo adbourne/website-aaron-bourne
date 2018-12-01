@@ -1,0 +1,51 @@
+baseURL = "https://www.aaronbourne.co.uk/"
+languageCode = "en-gb"
+title = "Aaron Bourne: Software Development | Learning | Technology"
+theme = "hugo-goa"
+author = "Aaron Bourne"
+
+## Basic Configuration
+builddrafts = false
+canonifyurls = false
+
+## Hugo Built-in Features
+#googleAnalytics = "XYZ"
+enableRobotsTXT = true
+
+## Site Settings
+[params]
+author = "Aaron Bourne"
+intro = "Software Development | Learning | Technology"
+description = "Software Development Knowledge Sharing"
+authorimage = "headshot.jpg"
+dateformat = "Jan 2, 2006"
+
+## Social Accounts
+[params.social]
+github = "adbourne"
+linkedin = "aaron-bourne-4159a047"
+
+## Extras
+[params.extra]
+copyright = "© 2018. Aaron Bourne."
+poweredby = false
+#highlightjs = true
+#socialmarkup = true
+
+## Main Menu
+[[menu.main]]
+    name = "blog"
+    weight = 100
+    identifier = "blog"
+    url = "/blog/"
+[[menu.main]]
+    name = "about"
+    identifier = "about"
+    weight = 200
+    url = "/about/"
+[[menu.main]]
+    name = "coderag"
+    identifier = "coderag"
+    weight = 300
+    url = "/coderag/"
+
