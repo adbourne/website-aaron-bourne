@@ -5,6 +5,8 @@ date: 2016-12-29T00:00:00Z
 categories: ["Computer Science"] 
 tags: ["Code", "Computer Science", "Free", "Functional Programming", "Scala", "Training", "Workshop"] 
 draft: false
+aliases:
+    - "/2017/04/24/geospatial-software-development-the-geometries/"
 ---
 A little while ago I designed and delivered a short workshop with the goal of introducing the [Scala programming language](https://www.scala-lang.org/) to Developers from a Java background.
 

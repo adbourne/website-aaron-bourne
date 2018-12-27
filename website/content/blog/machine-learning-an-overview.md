@@ -5,6 +5,8 @@ date: 2016-12-28T00:00:00Z
 categories: ["Machine Learning"] 
 tags: ["Machine Learning"] 
 draft: false
+aliases:
+    - "/2016/12/28/machine-learning-an-overview/"
 ---
 The term “Machine Learning” is prevalent in late 2016. It’s become one of those terms that’s bandied around in tech meetings and the focus of many-a-devs pet project. But what actually is it? A quick google gives [Arthur Samuel’s](https://en.wikipedia.org/wiki/Arthur_Samuel) 1959 definition:
 

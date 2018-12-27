@@ -1,7 +1,6 @@
 baseURL = "https://www.aaronbourne.co.uk/"
 languageCode = "en-gb"
 title = "Aaron Bourne: Software Development | Learning | Technology"
-theme = "hugo-goa"
 author = "Aaron Bourne"
 
 ## Basic Configuration
@@ -28,9 +27,8 @@ linkedin = "aaron-bourne-4159a047"
 ## Extras
 [params.extra]
 copyright = "© 2018. Aaron Bourne."
-poweredby = false
-#highlightjs = true
-#socialmarkup = true
+highlightjs = true
+mathjax = true
 
 ## Main Menu
 [[menu.main]]
@@ -38,14 +36,4 @@ poweredby = false
     weight = 100
     identifier = "blog"
     url = "/blog/"
-[[menu.main]]
-    name = "about"
-    identifier = "about"
-    weight = 200
-    url = "/about/"
-[[menu.main]]
-    name = "coderag"
-    identifier = "coderag"
-    weight = 300
-    url = "/coderag/"
 

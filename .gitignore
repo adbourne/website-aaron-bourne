@@ -8,9 +8,3 @@
 ##
 .idea/
 *.iml
-
-##
-# hugo
-##
-# Don't commit any themes
-themes/
