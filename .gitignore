@@ -8,3 +8,14 @@
 ##
 .idea/
 *.iml
+
+##
+# Terraform
+##
+.terraform
+.tfstate
+
+##
+# Project
+##
+build/
